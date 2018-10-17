@@ -1,40 +1,38 @@
-http://graphalchemist.github.io/Alchemy/#/doc
-https://is.cuni.cz/webapps/zzp/download/130205491
-http://blog.sparna.fr/2015/04/22/gephi-visualiser-des-graphes-rdf/
-*http://simile.mit.edu/welkin/
-http://ceur-ws.org/Vol-1695/paper24.pdf
-https://govhack-toolkit.readthedocs.io/technical/graph-dbs/
-https://github.com/cytoscape/cytoscape.js 
-https://github.com/anvaka/ngraph.pixel 
-https://maxdemarzi.com/?s=visuali 
-https://neo4j.com/blog/this-week-in-neo4j-hands-on-with-neo4j-bloom-building-a-personalised-recommender-popoto-release-parsing-the-query-log/ 
-https://github.com/sim51/neosig 
-https://www.bsimard.com/2018/04/25/graph-viz-with-sigmajs.html
-http://visjs.org/index.html 
-
-https://www.w3.org/TR/rdf11-primer/
-http://guides.neo4j.com/rdf/rdf-to-neo-worked.html
-https://jbarrasa.com/2016/06/07/importing-rdf-data-into-neo4j/
-https://github.com/jbarrasa/neosemantics **
-https://github.com/Rothamsted/rdf2neo
-converter
-viewer
-query builder
-data navigator
-http://giraph.apache.org
-https://orientdb.com(https://orientdb.com/integration/)
-https://www.blazegraph.com(neptune devs)
-http://ontodia.org
-https://devblogs.nvidia.com/gpus-graph-predictive-analytics/ 
-
-
-
-http://www.visualcomplexity.com/vc/
-
-mots-clés : graph based search, recommandation engine, graph explorer, data navigator 
-
- 
-http://www.mkbergman.com/414/large-scale-rdf-graph-visualization-tools/(multiples) 
+* Misc keywords
+    * converter
+    * viewer
+    * query builder
+    * data navigator
+    * graph based search
+    * recommandation engine
+    * graph explorer
+    
+* Misc links
+    * http://graphalchemist.github.io/Alchemy/#/doc
+    * https://is.cuni.cz/webapps/zzp/download/130205491
+    * http://blog.sparna.fr/2015/04/22/gephi-visualiser-des-graphes-rdf/
+    * http://simile.mit.edu/welkin/
+    * http://ceur-ws.org/Vol-1695/paper24.pdf
+    * https://govhack-toolkit.readthedocs.io/technical/graph-dbs/
+    * https://github.com/cytoscape/cytoscape.js 
+    * https://github.com/anvaka/ngraph.pixel 
+    * https://maxdemarzi.com/?s=visuali 
+    * https://neo4j.com/blog/this-week-in-neo4j-hands-on-with-neo4j-bloom-building-a-personalised-recommender-popoto-release-parsing-the-query-log/ 
+    * https://github.com/sim51/neosig 
+    * https://www.bsimard.com/2018/04/25/graph-viz-with-sigmajs.html
+    * http://visjs.org/index.html 
+    * https://www.w3.org/TR/rdf11-primer/
+    * http://guides.neo4j.com/rdf/rdf-to-neo-worked.html
+    * https://jbarrasa.com/2016/06/07/importing-rdf-data-into-neo4j/
+    * https://github.com/jbarrasa/neosemantics **
+    * https://github.com/Rothamsted/rdf2neo 
+    * http://giraph.apache.org
+    * https://orientdb.com(https://orientdb.com/integration/)
+    * https://www.blazegraph.com(neptune devs)
+    * http://ontodia.org
+    * https://devblogs.nvidia.com/gpus-graph-predictive-analytics/ 
+    * http://www.visualcomplexity.com/vc/
+    * http://www.mkbergman.com/414/large-scale-rdf-graph-visualization-tools/(multiples) 
 
  
 https://github.com/bricaud/graphexp
