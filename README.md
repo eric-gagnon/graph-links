@@ -8,6 +8,8 @@ It was done my personnal time using publicly available information so no problem
 
 The list is emblamatic of why link visualisation and meaning extraction is still underated : How could computer help us getting a domain knowledge overview, extract things like who's who, technology providers, concepts, metrics, wikis, terminology, from live web and electronic libraries, etc. without us having to manually to the first rought extraction.
 
+I'll maybe come back later to classify and order the links a bit...
+
 * Misc links
     * http://graphalchemist.github.io/Alchemy/#/doc
     * https://is.cuni.cz/webapps/zzp/download/130205491
@@ -25,7 +27,7 @@ The list is emblamatic of why link visualisation and meaning extraction is still
     * https://www.w3.org/TR/rdf11-primer/
     * http://guides.neo4j.com/rdf/rdf-to-neo-worked.html
     * https://jbarrasa.com/2016/06/07/importing-rdf-data-into-neo4j/
-    * https://github.com/jbarrasa/neosemantics **
+    * https://github.com/jbarrasa/neosemantics
     * https://github.com/Rothamsted/rdf2neo 
     * http://giraph.apache.org
     * https://orientdb.com(https://orientdb.com/integration/)
@@ -150,7 +152,7 @@ The list is emblamatic of why link visualisation and meaning extraction is still
     * http://vissoft.iro.umontreal.ca/accepted.html#animatrix
     * http://vissoft18.etsii.urjc.es
     * http://www.labri.fr/perso/melancon/Visual_Analytics_Course/doku.php
-    * http://www.renoust.com ù9datagler
+    * http://www.renoust.com
     * https://hal.archives-ouvertes.fr/hal-01454977/document
     * https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/
     * https://www.w3.org/2001/sw/wiki/OWL
