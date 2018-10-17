@@ -1,4 +1,4 @@
-I was supposed to be involved in a project at work related to linked data this year but it did not panned out.
+I was supposed to be involved in a project at work related to linked data but it did not panned out.
 
 Regardless, it ended being a good excuse to browse around and find articles more or less related to the subject, driven by interest and curiousity without the pretention to be extensive or correct, on things I knew a little bit about already and other not so much.
 
