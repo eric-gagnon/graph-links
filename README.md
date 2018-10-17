@@ -2,7 +2,7 @@ I was supposed to be involved in a project at work related to linked data this y
 
 Regardless, it ended being a good excuse to browse around and find articles more or less related to the subject, get a better head on all this, on things I knew a little bit about already and other not so much.
 
-There are a few books available on graph, graphDB and visualisation, linked data but you can only say so much in 300 pages and only using first few links of google only give you a small glimpse of what is available (and if you have the right keywords), so yeah, that's alot of browsing and reading time that you see there but alot of awesome and inspiring stuff.
+There are a few books available on graph, graphDB and visualisation, linked data but you can only say so much in 300 pages and only using first few links of google only give you a small glimpse of what is available and if you find the right keywords. So yeah, that's alot of browsing and reading time that you see there but alot of awesome and inspiring stuff.
 
 It was done my personnal time using publicly available information so no problem sharing it here.
 
