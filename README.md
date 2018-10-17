@@ -1,6 +1,6 @@
 I was supposed to be involved in a project at work related to linked data, rdf and visualisation this year but it did not panned out.
 
-Regardless, it ended being a good excuse to browse around and find articles more or less related to the subject, on the things I knew a little bit about already and other not so much.
+Regardless, it ended being a good excuse to browse around and find articles more or less related to the subject, on things I knew a little bit about already and other not so much.
 
 There are a few books available on graph, graphDB and visualisation, linked data but you can only say so much in 300 pages and only using first few links of google only give you a glimpse of what is available (and if you have the right keywords), so yeah, that's alot of browsing and reading time that you see there but alot of awesome stuff.
 
