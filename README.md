@@ -6,7 +6,9 @@ There are a few books available on graph, graphDB and visualisation, linked data
 
 It was done my personnal time using publicly available information so no problem sharing it here.
 
-The list is emblamatic of why link visualisation and meaning extraction is still underated : How could computer help us getting a domain knowledge overview, extract things like who's who, technology providers, concepts, metrics, wikis, terminology, from live web and electronic libraries, etc. without us having to manually to the first rought extraction.
+The list for me is also emblematic of why link visualisation and meaning extraction is still underated : How could computer help us getting a domain knowledge overview, extract things like who's who, technology providers, concepts, metrics, wikis, terminology, from live web and electronic libraries, etc. without us having to manually to the first rought extraction.
+
+I'm a avid reader, very curious and would really enjoy having better tools to manage information and knowledge.
 
 I'll maybe come back later to classify and order the links a bit...
 
