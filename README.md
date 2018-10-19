@@ -1,16 +1,4 @@
-I was supposed to be involved in a project at work related to linked data but it did not panned out.
 
-Regardless, it ended being a good excuse to browse around and find articles more or less related to the subject, driven by interest and curiousity without the pretention to be extensive or correct, on things I knew a little bit about already and other not so much.
-
-There are a few books available on graph, graphDB and visualisation, linked data but you can only say so much in 300 pages and only using first few links of google only give you a small glimpse of what is available and if you find the right keywords. So yeah, that's alot of browsing and reading time that you see there but alot of awesome and inspiring stuff.
-
-It was done my personnal time using publicly available information so no problem sharing it here.
-
-The list for me is also emblematic of why link data visualisation and meaning extraction is still underated : How could computer help us getting a domain knowledge overview, extract things like who's who, technology providers, concepts, metrics, wikis, terminology, from live web and electronic libraries, etc. without us having to manually go through the first rought extraction or later refinement and classification.
-
-I'm a avid reader, very curious and would really enjoy having better tools to manage and discover information and knowledge.
-
-I'll maybe come back later to classify and order the links a bit...
 
 * Misc links
     * http://graphalchemist.github.io/Alchemy/#/doc
